@@ -1,0 +1,10 @@
+/* Image Selectors */
+h1{color: rgb(201, 34, 98); size: 50px;}
+body{background-color:black}
+
+/* class selectors */
+.broccoli{background-color:red;}
+.Bacon{background-color: green; }
+.circular{border-radius: 50%;}
+#heading{background-color: aliceblue; font-size: 50px;}
+img:hover{background-color: blue;}
